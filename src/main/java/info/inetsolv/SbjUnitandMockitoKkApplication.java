@@ -8,6 +8,6 @@ public class SbjUnitandMockitoKkApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SbjUnitandMockitoKkApplication.class, args);
-	}
+		System.out.println("Hello");	}
 
 }
